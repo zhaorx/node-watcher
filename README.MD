@@ -7,10 +7,13 @@
 监听和同步目录地址配置在 config.js 中
 
 1.下载本项目
-$ git clone https://github.com/zhaorx/node-watcher.git
+
+> $ git clone https://github.com/zhaorx/node-watcher.git
 
 2.安装依赖
-$ npm install
+
+> $ npm install
 
 3.启动
-$ npm run start
+
+> $ npm run start
